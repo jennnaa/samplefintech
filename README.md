@@ -1,6 +1,6 @@
 #  Beanworks Company Overview 
 
-![Logo]()
+![Logo](https://github.com/jennnaa/samplefintech/blob/main/beanworks-logo-colour.png)
 
 ## Overview and origin 
 
@@ -23,10 +23,6 @@ Tracy Thompson has a relentless passion for creating helpful and friendly relati
 
 ### How did the idea for the company (or project) come about?
 Beanworks is an accounts payable automation solution that helps companies eliminate paperwork and reduce invoice processing costs. Accounts payable (AP) is consistently ranked as the most frustrating and time-consuming part of accounting by finance professionals. As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is modernizing the entire AP process, from the purchase decision to invoice approval with electronic payments included in the experience.
-
-
-
-## Overview and origin 
 
 ### What specific financial problem is the company or project try to resolve?
 Beanworks is an accounts payable automation solution that integrates with popular accounting systems such as Dynamics GP, QuickBooks, Sage 300, or Yardi. It enables users to streamline the accounts payable workflow by pulling invoice data into the online dashboard, route for approval, and pay the approved transactions by virtual credit card or direct deposit.
