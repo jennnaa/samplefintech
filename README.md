@@ -1,7 +1,9 @@
-# README title 
+#  Beanworks Company Overview 
+
+![Logo]
 ## Readme title sub folder 
 
-![alt text](http://picsum.photos/300/300)
+![alt text](https://github.com/jennnaa/samplefintech/blob/main/beanworks-logo-colour.png)
 
 ## README description 
 ### Readme description sub folder
