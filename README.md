@@ -1,9 +1,6 @@
 #  Beanworks Company Overview 
 
-![Logo]
-## Readme title sub folder 
-
-![Logo]()
+![Logo](https://github.com/jennnaa/samplefintech/blob/main/beanworks-logo-colour.png)
 
 ## Overview and origin 
 
