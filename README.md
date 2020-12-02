@@ -1,6 +1,6 @@
 #  Beanworks Company Overview 
 
-![Logo](https://github.com/jennnaa/samplefintech/blob/main/beanworks-logo-colour.png)
+![Logo](beanworks-logo-colour.png)
 
 ## Overview and origin 
 
