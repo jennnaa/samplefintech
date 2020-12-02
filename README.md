@@ -3,7 +3,7 @@
 ![Logo]
 ## Readme title sub folder 
 
-![Logo]()
+![Logo](beanworks-logo-colour.png)
 
 ## Overview and origin 
 
