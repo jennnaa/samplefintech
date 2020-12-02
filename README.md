@@ -1,9 +1,6 @@
 #  Beanworks Company Overview 
 
-![Logo]
-## Readme title sub folder 
-
-![Logo](beanworks-logo-colour.png)
+![Logo](https://github.com/jennnaa/samplefintech/blob/main/beanworks-logo-colour.png)
 
 ## Overview and origin 
 
@@ -23,3 +20,4 @@ Cory Cleaver is a multifaceted designer that loves pushing pixels as much as he 
 Reza Sanaie is a skilled task juggler and enthusiastic startup techy. Involved with internet technologies since the early days, as a computer engineer, he leverages best practices to achieve customer happiness with intuitive interface design, blistering performance, and robust security, dependability and scalability. Reza is a co-founder.
 
 Tracy Thompson has a relentless passion for creating helpful and friendly relationships with customers. Her support team is efficient and looks for ways to go above and beyond with each customer interaction. Tracy has a BBA and has been a full-cycle bookkeeper. She has worked with web-based applications for over five years. Tracy is a co-founder.
+
